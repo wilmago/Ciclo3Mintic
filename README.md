@@ -1,2 +1,2 @@
 # Ciclo3Mintic
-repositorio para practicas Ciclo3 MisionTIC 2022
+Repositorio para prácticas Ciclo3 MisionTIC 2022
