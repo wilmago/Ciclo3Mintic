@@ -1,5 +1,7 @@
 Nombre:		William Orlando Mantilla Moreno
+No. Cedula:	13749458
+Rol:		Scrum master
 Correo:		william.mantilla14@gmail.com
 Celular:	3132910550
-Rol:		Scrum master
-Saludo:		Un saludo para todos, con muchas ganas de hacer las cosas bien
+Grupo:		Desarrollo de Soft C3-Grupos 37-38
+Saludo:		Un saludo para todos!!!
